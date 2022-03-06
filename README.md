@@ -1,2 +1,2 @@
 # lworkshop
-This is a demo application for workshop
+This application is going to be bootstrap create app. I did a bit more changes
